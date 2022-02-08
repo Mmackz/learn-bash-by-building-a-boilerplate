@@ -545,3 +545,18 @@ history -a
 find
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+rm -r fonts
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rmdir -r fonts
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rmdi --help
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rmdir --help
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rm --help
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
