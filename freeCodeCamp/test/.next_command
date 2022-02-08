@@ -180,3 +180,12 @@ history -a
 touch index.js
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+touch .gitingnore
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rm .gitingnore
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+touch .gitignore
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
