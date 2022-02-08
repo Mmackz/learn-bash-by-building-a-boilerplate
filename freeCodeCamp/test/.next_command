@@ -467,3 +467,45 @@ history -a
 ls --color=auto
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+mkdir icons
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rmdir icons
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mkdir assets/icons
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd client
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mkdir assets/icons
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rmdir assets/icons
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd assets
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mkdir icons
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rmdir icons
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd ../..
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mkdir client/assets/icons
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
