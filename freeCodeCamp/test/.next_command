@@ -648,3 +648,20 @@ echo goodbye terminal
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
 exit
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+'/home/codeally/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/node' -p '"84e1be07abdf59de90eee1ced7230628" + JSON.stringify(process.env) + "84e1be07abdf59de90eee1ced7230628"'
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+'/home/codeally/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/node' -p '"bc4b05d5651c29dc0e8238d3b422e0f1" + JSON.stringify(process.env) + "bc4b05d5651c29dc0e8238d3b422e0f1"'
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd ..
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+'/home/codeally/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/node' -p '"588c6d1975b168e91c4be33b8f87c5e0" + JSON.stringify(process.env) + "588c6d1975b168e91c4be33b8f87c5e0"'
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+'/home/codeally/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/node' -p '"2ef8a613283e6848738c0de0d280e228" + JSON.stringify(process.env) + "2ef8a613283e6848738c0de0d280e228"'
