@@ -150,3 +150,12 @@ history -a
 mkdir website
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+cd website
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd ..
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
